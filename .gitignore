@@ -1,0 +1,6 @@
+# Ignorar todo el contenido dentro de la carpeta Dataset
+Dataset/*
+!Dataset/.gitkeep  # Añade esta línea si quieres mantener un archivo .gitkeep en la carpeta Dataset
+
+# Ignorar todo el contenido de la carpeta detectron2
+detectron2/
