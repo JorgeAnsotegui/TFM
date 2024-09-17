@@ -5,8 +5,11 @@ Dataset/*
 # Ignorar todo el contenido de la carpeta detectron2
 detectron2/
 
-# Ignorar todo el contenido de la carpeta
+# Ignorar todo el contenido de la carpeta models
 models/
+
+# Ignorar todo el contenido de la carpeta OLD
+OLD/
 
 # Modelos de YOLO y Detectron
 *.pth 
