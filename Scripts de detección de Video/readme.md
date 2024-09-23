@@ -2,8 +2,8 @@
 
 ## Videos de las pruebas
 
-- **YOLOv8 Nano - Fijo:** [Ver Video](https://youtu.be/Y-SiBJKqvGo)
-- **YOLOv8 Small - Fijo:** [Ver Video](https://youtu.be/vAMzdMGJsvg)
+- **YOLOv8 Nano - Básico:** [Ver Video](https://youtu.be/Y-SiBJKqvGo)
+- **YOLOv8 Small - Básico:** [Ver Video](https://youtu.be/vAMzdMGJsvg)
 - **YOLOv8 Nano - Preprocesado:** [Ver Video](https://youtu.be/2jJWQbW_w84)
 - **YOLOv8 Small - Preprocesado:** [Ver Video](https://youtu.be/JfWe1RgWytU)
 - **YOLOv8 Nano - Data Augmentation:** [Ver Video](https://youtu.be/C0gjKuo4kXY)
