@@ -9,6 +9,9 @@
 - **YOLOv8 Nano - Data Augmentation:** [Ver Video](https://youtu.be/C0gjKuo4kXY)
 - **YOLOv8 Small - Data Augmentation:** [Ver Video](https://youtu.be/gNJdepY94D8)
 
+[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/gNJdepY94D8)
+
+
 ## Métricas de los modelos usados en los videos
 
 | **Métrica**         | **Básico (Nano)** | **Básico (Pequeño)** | **Preprocesado (Nano)** | **Preprocesado (Pequeño)** | **Data Augmentation (Nano)** | **Data Augmentation (Pequeño)** |
