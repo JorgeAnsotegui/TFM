@@ -2,6 +2,8 @@
 
 ## Videos de las pruebas
 
+https://github.com/JorgeAnsotegui/TFM/blob/main/Scripts%20de%20detecci%C3%B3n%20de%20Video/Videos_YOLOv8/YoloV8_n_all.mp4
+
 - [YoloV8_n_fix.mp4](./YOLOv8/YoloV8_n_fix.mp4)
 - [YoloV8_n_pre.mp4](./YOLOv8/YoloV8_n_pre.mp4)
 - [YoloV8_n_all.mp4](./YOLOv8/YoloV8_n_all.mp4)
