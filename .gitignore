@@ -9,7 +9,7 @@ detectron2/
 models/
 
 # Ignorar todo el contenido de la carpeta OLD
-# OLD/
+OLD/
 
 # Modelos de YOLO y Detectron
 *.pth 
