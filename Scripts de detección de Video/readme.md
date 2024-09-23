@@ -1,5 +1,5 @@
 ### YOLOv8
-
+[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
 ## Videos de las pruebas
 
 - **YOLOv8 Nano - Fijo:** [Ver Video](https://youtu.be/Y-SiBJKqvGo)
