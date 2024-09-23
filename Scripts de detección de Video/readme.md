@@ -1,5 +1,7 @@
 ### YOLOv8
-[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
+
+[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)]([https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4](https://github.com/JorgeAnsotegui/TFM/blob/main/Scripts%20de%20detecci%C3%B3n%20de%20Video/Videos_Detectron2/Detectron2_n_all.mp4))
+
 ## Videos de las pruebas
 
 - **YOLOv8 Nano - Fijo:** [Ver Video](https://youtu.be/Y-SiBJKqvGo)
