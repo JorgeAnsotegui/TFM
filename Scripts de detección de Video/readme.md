@@ -24,12 +24,13 @@
 
 ## Videos de las pruebas
 
-- [Detectron2_n_fix.mp4](./Detectron2/Detectron2_n_fix.mp4)
-- [Detectron2_n_pre.mp4](./Detectron2/Detectron2_n_pre.mp4)
-- [Detectron2_n_all.mp4](./Detectron2/Detectron2_n_all.mp4)
-- [Detectron2_s_fix.mp4](./Detectron2/Detectron2_s_fix.mp4)
-- [Detectron2_s_pre.mp4](./Detectron2/Detectron2_s_pre.mp4)
-- [Detectron2_s_all.mp4](./Detectron2/Detectron2_s_all.mp4)
+- **Detectron2 Nano - Básico:** [Ver Video](https://youtu.be/sQZPaVRtnlk)
+- **Detectron2 Small - Básico:** [Ver Video](https://youtu.be/Uefp0zKeJpw)
+- **Detectron2 Nano - Preprocesado:** [Ver Video](https://youtu.be/eKyJdpOFFVo)
+- **Detectron2 Small - Preprocesado:** [Ver Video](https://youtu.be/Y1G8UV2lGKs)
+- **Detectron2 Nano - Data Augmentation:** [Ver Video](https://youtu.be/2MSFshEjeFs)
+- **Detectron2 Small - Data Augmentation:** [Ver Video](https://youtu.be/ieQ4TC7YBJM)
+
 
 ## Métricas de los modelos usados en los videos
 
