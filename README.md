@@ -1,5 +1,8 @@
 # TFM
-Identificación Segmentada de tejidos en imágenes de pólipos intestinales
+Identificación segmentada de tejidos en imágenes de pólipos intestinales
+
+Con la supervisión de mis tutores, Alfonso Bahillo y Mario Fernando Jojoa, entrené modelos de detección de objetos utilizando dos arquitecturas distintas: YOLOv8 y Detectron2.
+Para alcanzar los mejores resultados, recurrí a diversas técnicas de fine-tuning y optimización de hiperparámetros, con el fin de maximizar las métricas presentadas a continuación. Entre las estrategias aplicadas, la más eficaz resultó ser la búsqueda en malla (grid search) con características bayesianas.
 
 ### YOLOv8
 
